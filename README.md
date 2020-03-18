@@ -1,4 +1,4 @@
-# hungeesio
+# hungees.io
 
 ## Project setup
 ```
